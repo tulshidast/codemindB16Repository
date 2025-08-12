@@ -9,6 +9,7 @@
       <class name="tests.LoginTestCase"/>
       <class name="tests.BaseTest"/>
       <class name="tests.VerifyFlightFinderPageDetails"/>
+      <class name="tests.VerifyPageTitle"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
