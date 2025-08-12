@@ -6,7 +6,7 @@ import org.openqa.selenium.edge.EdgeDriver;
 import org.openqa.selenium.safari.SafariDriver;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
-import utils.ConfigReader;
+import tests.ConfigReader;
 
 public class ThreadLocalDriver {
 

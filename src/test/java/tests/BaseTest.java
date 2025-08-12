@@ -7,7 +7,6 @@ import org.testng.annotations.AfterMethod;
 import org.testng.annotations.BeforeMethod;
 
 import base.DriverManager;
-import utils.ConfigReader;
 import utils.Log;
 
 public class BaseTest {

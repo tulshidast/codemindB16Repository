@@ -6,7 +6,6 @@ import org.testng.annotations.Test;
 
 import pages.LoginPage;
 import pages.LoginSucessPage;
-import utils.ConfigReader;
 
 public class LoginTestCase extends BaseTest {
 
